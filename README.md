@@ -30,16 +30,22 @@ Navigate to the folder via Terminal or open it in Jupyter Notebook.
 
 Step 3: Import Required Libraries
 Open a new Python script or Jupyter Notebook and start importing necessary libraries:
+
 ![image](https://github.com/user-attachments/assets/0fb37150-3f55-4de2-8646-6b27c18ced02)
 
+
 Step 4: Convert your dataset into vector embeddings the final output will look like this:
+
 ![image](https://github.com/user-attachments/assets/ac2f9cef-7a99-4264-9066-189a77f9926a)
 
-Step 5: Set Up Hugging Face Pipeline
-Initialize the Hugging Face model and FAISS for answering questions. For example, use a Question-Answering pipeline:
+
+Step 5: Set Up Hugging Face Pipeline Initialize the Hugging Face model and FAISS for answering questions. For example, use a Question-Answering pipeline:
+
 ![image](https://github.com/user-attachments/assets/be8758fd-21c0-4a01-8135-7bde6509e866)
 
+
 Step 6: This is the final output that we will get:
+
 ![image](https://github.com/user-attachments/assets/f1e198b8-d8d2-4026-954e-812d9cc3c572)
 
 
